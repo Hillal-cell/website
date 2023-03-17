@@ -1,68 +1,57 @@
-.first{
-    
-    background-color: #DDDDDD;
-    height: 300px;
-    width: 300px;
-    margin-left: 0%;
 
-}
-.first:hover{
-    background-color: #183A1D;
-}
-.second{
-    position: relative;
-    background-color: #2F58CD ;
-    height: 300px;
-    width: 300px;
-    margin-left: 42%;
-    margin-bottom: 0%;
-    margin-top: -21.20%;
-    margin-right: -20%;
-}
-.second:hover{
-    background-color: #2DCDDF;
-}
-.third{
+  .first{ 
+    background-color: rgb(183, 182, 184);
+  
+  }
+  .first:hover {
+    background-color: azure;
+  }
+  .second
+  { 
+  background-color:rgb(84, 80, 216);
+  margin-left: 600px;
+  margin-top: -200px;
+  position: relative;
+  
+  }
+  .second:hover {
+    background-color:  rgb(22, 198, 247);
+  
+  }
+  
+  .third 
+  {
+    background-color: rgb(128, 130, 132);
+    margin-left: 300px;
+  }
+  .third:hover {
+    background-color: rgb(22, 198, 247);
+  }
+  .fourth 
+  {
+    background-color:rgb(79, 117, 193);
+  }
+  .fourth:hover {
+    background-color: rgb(222, 226, 231);
+  
+  }
+  .fifth 
+  {
+  
+    background-color: rgb(233, 162, 136);
+    margin-left: 600px;
+    margin-top: -200px;
+  }
+  .fifth:hover {
+    background-color: rgb(109, 184, 241);
+  }
+  div{ 
+    width: 300px ;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    line-height: 50px;
     
-    background-color: #7B8FA1;
-    height: 300px;
-    width: 300px;
-    margin-left: 21%;
-    
-}
-.third:hover{
-    background-color: #FFB100;
-}
-
-.fourth{
-    
-    background-color: #8EA7E9;
-    height: 300px;
-    width: 300px;
-    margin-left: 0%;
-    
-}
-.fourth:hover{
-    background-color: #F8EDE3;
-}
-.fifth{
-    position: relative;
-    background-color: #FFBF9B ;
-    height: 300px;
-    width: 300px;
-    margin-left: 42%;
-    margin-top: -21.20%;
-    margin-right: 70%;
-    
-}
-.fifth:hover{
-    background-color: #282A3A;
-}
-
-p{
-    
-    padding-left: 0%;
-    margin: 0%;
-    text-align: center;
-    padding-top: 50%;
-}
+  }
