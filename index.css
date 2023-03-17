@@ -1,0 +1,68 @@
+.first{
+    
+    background-color: #DDDDDD;
+    height: 300px;
+    width: 300px;
+    margin-left: 18.90%;
+
+}
+.first:hover{
+    background-color: #183A1D;
+}
+.second{
+    position: relative;
+    background-color: #2F58CD ;
+    height: 300px;
+    width: 300px;
+    margin-left: 61.10%;
+    margin-bottom: 0%;
+    margin-top: -21.20%;
+    margin-right: -20%;
+}
+.second:hover{
+    background-color: #2DCDDF;
+}
+.third{
+    
+    background-color: #7B8FA1;
+    height: 300px;
+    width: 300px;
+    margin-left: 40%;
+    
+}
+.third:hover{
+    background-color: #FFB100;
+}
+
+.fourth{
+    
+    background-color: #8EA7E9;
+    height: 300px;
+    width: 300px;
+    margin-left: 18.90%;
+    
+}
+.fourth:hover{
+    background-color: #F8EDE3;
+}
+.fifth{
+    position: relative;
+    background-color: #FFBF9B ;
+    height: 300px;
+    width: 300px;
+    margin-left: 61.10%;
+    margin-top: -21.20%;
+    margin-right: 70%;
+    
+}
+.fifth:hover{
+    background-color: #282A3A;
+}
+
+p{
+    
+    padding-left: 0%;
+    margin: 0%;
+    text-align: center;
+    padding-top: 50%;
+}

@@ -1,0 +1,25 @@
+body{
+    background-color: darkslategrey;
+
+}
+h1{
+    font-style: oblique;
+    color: bisque;
+}
+h5{
+    font-size: medium;
+    color: bisque;
+}
+footer{
+    color: aqua;
+}
+img{
+    margin-left: 200px;
+    
+}
+p{
+    color: aquamarine;
+}
+a{
+    color: burlywood;
+}
