@@ -4,7 +4,7 @@
   
   }
   .first:hover {
-    background-color: azure;
+    background-color: #617143;
   }
   .second
   { 
@@ -15,7 +15,7 @@
   
   }
   .second:hover {
-    background-color:  rgb(22, 198, 247);
+    background-color: #898121 ;
   
   }
   
@@ -25,14 +25,14 @@
     margin-left: 300px;
   }
   .third:hover {
-    background-color: rgb(22, 198, 247);
+    background-color: #3795BD;
   }
   .fourth 
   {
-    background-color:rgb(79, 117, 193);
+    background-color:#FFB84C;
   }
   .fourth:hover {
-    background-color: rgb(222, 226, 231);
+    background-color: #16FF00;
   
   }
   .fifth 
@@ -43,7 +43,7 @@
     margin-top: -200px;
   }
   .fifth:hover {
-    background-color: rgb(109, 184, 241);
+    background-color: #FC7300;
   }
   div{ 
     width: 300px ;
